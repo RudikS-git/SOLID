@@ -1,2 +1,2 @@
 # SOLID
-4/5 completed
+5/5 completed
